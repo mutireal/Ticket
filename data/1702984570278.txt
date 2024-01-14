@@ -1,0 +1,23 @@
+Kullanıcı ticketi 1179280051443867728 (kanal #ticket-1179280051443867728)
+
+19.12.2023 14:15:49 - mutidev (ticket oluşturan) : asfdasf
+19.12.2023 14:15:50 - mutidev (ticket oluşturan) : merhaba
+19.12.2023 14:15:51 - mutidev (ticket oluşturan) : sa
+19.12.2023 14:15:51 - mutidev (ticket oluşturan) : asa
+19.12.2023 14:15:52 - mutidev (ticket oluşturan) : sa
+19.12.2023 14:15:52 - mutidev (ticket oluşturan) : sa
+19.12.2023 14:15:52 - mutidev (ticket oluşturan) : s
+19.12.2023 14:15:53 - mutidev (ticket oluşturan) : as
+19.12.2023 14:15:53 - mutidev (ticket oluşturan) : da
+19.12.2023 14:15:53 - mutidev (ticket oluşturan) : as
+19.12.2023 14:15:54 - mutidev (ticket oluşturan) : as
+19.12.2023 14:15:55 - mutidev (ticket oluşturan) : sa
+19.12.2023 14:15:55 - mutidev (ticket oluşturan) : as
+19.12.2023 14:15:56 - mutidev (ticket oluşturan) : sa
+19.12.2023 14:15:56 - mutidev (ticket oluşturan) : as
+19.12.2023 14:15:57 - mutidev (ticket oluşturan) : sa
+19.12.2023 14:15:58 - mutidev (ticket oluşturan) : as
+19.12.2023 14:15:58 - mutidev (ticket oluşturan) : sa
+19.12.2023 14:15:59 - mutidev (ticket oluşturan) : as
+
+Logs 19.12.2023 14:16:10
